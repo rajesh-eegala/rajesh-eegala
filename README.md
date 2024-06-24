@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajesh Eegala</h1>
 <h3 align="center">A passionate DevOps enthusiast from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajesh-eegala" alt="rajesh-eegala" /></a> </p>
-
 - 🌱 I’m currently learning **DevOps Technologies**
 
 - 👨‍💻 All of my projects are available at [I](I)
