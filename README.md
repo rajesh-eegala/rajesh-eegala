@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DevOps Technologies**
 
-- 👨‍💻 All of my projects are available at [I](I)
+- 👨‍💻 All of my projects are available at [https://github.com/rajesh-eegala](https://github.com/rajesh-eegala)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/rajesh-eegala/](https://www.linkedin.com/in/rajesh-eegala/)
 
