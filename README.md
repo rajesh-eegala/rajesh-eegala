@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rajeegala6@gmail.com**
 
-- 📄 Know about my experiences here - https://drive.google.com/file/d/1ChplKHxS__lqqcTQwnyQ6hsjuLDET18p/view?usp=sharing
+- 📄 Know about my experiences here - [Resume Link](https://drive.google.com/file/d/1Bh6zD_hYQLigUsH3i0I4TEpy_Nfwz5Tg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
